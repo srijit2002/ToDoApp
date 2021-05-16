@@ -1,6 +1,4 @@
 
-
-
 const reducer=(state,action)=>{
 
     if(action.type==="INVALID_INPUT"){
